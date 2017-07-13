@@ -104,7 +104,7 @@ You Will Need:
 
     and then configure it to use your new kernel(s) with:
     
-        # grup2-mkconfig -o /boot/grub/grub.cfg
+        # grub2-mkconfig -o /boot/grub/grub.cfg
 
     Note that Sakaki's scripts do this for you if you're following his
     build guide for EFI.
