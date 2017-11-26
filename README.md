@@ -1,3 +1,6 @@
+> **Important**: Sorry guys, but I don't use Gentoo any more, so I'm no longer maintaining this repo.  If someone would like to fork it and take over, by all means, go nuts.
+
+
 Gentoo Linux on the Surface Pro 3
 =================================
 
